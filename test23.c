@@ -11,6 +11,7 @@ int main(void)
     }
     str[52] = '\0'; /* Στο τέλος, προσθέτουμε τον τερματικό χαρακτήρα. */
     printf("%s\n", str);
+    printf("Hello again!!!")
     printf("%s\n", str);
 
     return 0;
